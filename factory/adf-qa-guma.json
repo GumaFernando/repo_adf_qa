@@ -1,0 +1,9 @@
+{
+	"name": "adf-qa-guma",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7ae4aa0c-27ce-4504-bc0e-e0588464dfb6",
+		"tenantId": "5d99570d-e311-4764-babf-9fdd7565ce64"
+	}
+}
